@@ -13,7 +13,8 @@
       "localizedDescription": "Ein vielseitiger Emulator für Game Boy, GBA und mehr.",
       "downloadURL": "https://amarder2.github.io/altstoresource/apps/Spotify.ipa",
       "iconURL": "https://amarder2.github.io/altstoresource/images/Spotify.png",
-      "tintColor": "#800080"
+      "tintColor": "#800080",
+      "size": 104857600
     }
   ]
 }
