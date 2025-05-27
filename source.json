@@ -10,6 +10,7 @@
       "version": "1.6",
       "versionDate": "2024-05-01",
       "versionDescription": "• Kompatibilität mit iOS 17.4\n• Bugfixes und Verbesserungen",
+      "localizedDescription": "Ein vielseitiger Emulator für Game Boy, GBA und mehr.",
       "downloadURL": "https://amarder2.github.io/altstoresource/apps/Spotify.ipa",
       "iconURL": "https://amarder2.github.io/altstoresource/images/Spotify.png",
       "tintColor": "purple"
